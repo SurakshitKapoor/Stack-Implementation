@@ -4,7 +4,7 @@
 using namespace std;
 
 queue<int>q;
-bool flag = 0;
+
 void pushOperation(int n) {
     if (q.empty())
     {
