@@ -1,7 +1,6 @@
 //stack using two queues making pop opeartion costly
 #include<iostream>
 #include<queue>
-#include<bits/stdc++.h>
 using namespace std;
 
 queue<int>q;
